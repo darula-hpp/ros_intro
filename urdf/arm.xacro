@@ -5,6 +5,6 @@
     	xmlns:interface="http://playerstage.sourceforge.net/gazebo/xmlschema/#interface"
 	name="arm">
 <!-- Import all Gazebo-customization elements, including Gazebo colors -->
-<xacro:include filename="$(find ros_intro)/urdf/robot.urdf" />
+<xacro:include filename="$(find ros_intro)/urdf/robot.urdf"/>
 
 </robot>
